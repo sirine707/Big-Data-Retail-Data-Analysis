@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv/
+env/
+venv/
+
+# Jupyter and notebook checkpoints
+.ipynb_checkpoints/
+
+# Data and output
+data/output_es/
+data/*.csv
+!data/retail_data.csv  # Keep the main dataset if you want it versioned
+*.log
+
+# Airflow
+airflow/logs/
+airflow/__pycache__/
+airflow/dags/__pycache__/
+
+# Spark
+*.crc
+*.eventlog
+
+# Docker
+*.pid
+*.sock
+
+# System/Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Elasticsearch
+elasticsearch-data/
