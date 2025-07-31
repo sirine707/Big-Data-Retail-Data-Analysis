@@ -1,4 +1,4 @@
-# Retail Data Big Data Pipeline
+# Big Data Pipeline for Retail Data 
 
 ## Tools Used
 
