@@ -242,6 +242,3 @@ These specs are more than sufficient for running the full pipeline, even with la
 ## Contributors
 - Sirine Jnayeh
 - Ghassen Abed ([Ghassen2001](https://github.com/Ghassen2001))
-
-## License
-MIT License. See LICENSE file for details.
